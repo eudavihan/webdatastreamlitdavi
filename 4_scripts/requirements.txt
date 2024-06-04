@@ -1,0 +1,7 @@
+pandas
+streamlit
+sqlalchemy
+plotly
+selenium
+statsmodels
+numpy
