@@ -23,11 +23,6 @@ def load_data():
 # Carregar os dados
 df = load_data()
 
-if df.empty:
-    st.error("No data loaded. Please check your database and query.")
-else:
-    st.write("Loaded Data:")
-    st.write(df.head())
 
 #############################################################################################################
 # Definir grupos de posições e cores
